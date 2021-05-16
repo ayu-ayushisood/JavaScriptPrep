@@ -8,3 +8,6 @@ All of the questions have been experienced in 10+ companies including startups t
 - You're a Fresher.
 - You have 1 to 2.5 years of experience in Front End Web development.
 - You just want to brush up your theoretical JS skills for interviews.
+
+## Access it here
+https://ayu-ayushisood.github.io/JavaScriptPrep/
